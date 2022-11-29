@@ -1,12 +1,6 @@
-# rpractice / ps-1
-#
-# A3: Assignment 3
-#    Prompts for Assignment 3
-#    dhendry@uw.edu
 #    Autumn 2022
 
-# Set-up info ---- 
-#practice.begin("A3", learner="Cecelia Thomas", email="ceceliat@uw.edu")
+#practice.begin("A3", learner="Cecelia Thomas")
 
 # Your 37 prompts ----
 
